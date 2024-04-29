@@ -2,6 +2,12 @@
 
 ### master branch - has all the code
 
+#### Note: In the project sheet, it stated to describe particular things in the demo. Anything that wasn't discussed in the demo, I have written out thoroughly in my report document as I did not want to go above the 15 minute demo time limit! Thanks!
+
+Files that show prepared statements/sanitization of user inputs and ORM: all in the controller folder in the backend
+
+Files that show that data is being retrieved and populated as necessary: all in the&nbsp; frontend/src/components (specifically Restaurant_View, Update_Reservation, Delete_Reservation, Reservation, and Report)&nbsp;
+
 #### How To Run:
 ##### Go to backend folder, and run `npm run dev` command
 ##### Go to frontend folder, and run `npm run dev` command which will take you to localhost link 
